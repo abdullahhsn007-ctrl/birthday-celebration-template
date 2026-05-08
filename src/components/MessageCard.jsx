@@ -13,19 +13,21 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[AREEBA],
 
-Your personalized birthday message goes here.
+My Areeba,
+Happiest Birthday Meri jaan. This is a great day as love of my life was born today. I still can't tell how lucky I feel having you in my life. I'll always be sooo grateful to have you my love.
+I don't know what I did to deserve such an amazing girl so beautiful I can't even express in words.
+I hope you have a wonderful day. It is your day enjoy as much as you want.
+Meri malkin to aur bari hogyi.
+Lekin ap jitni bhi bari hojao rhogi to ap meri cutuuu si baby hiiii.
+Merii haseen tareeen auratt. I wish ke aj ke din me apke passs hota. 
+Inshallah kbhi na kbhi ham sari birthdays sath krenge I'll spoil you with so many gifts. I loveeee youuu sooo muchhhhh Meriiiii Areeebaaa, Meriii Jaaaan mere jigar ka tuqraaa, meriii man hater, meriii punjabi baddieee, meriii hoor, meriii haseeeen tareeen aurattttt, Meri Most gorgeous  and most beautiful Woman in THE WORLDDD. I can't Express My love for you in words even the word love feel small to express the love I have for you.
+I hope you have a Wonderful Day just Like you Areeba.
+Forever and Only Yours,
+Abdullah. 🎉
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— [ABDULLAH]`;
 
   // Handle page transitions
   useEffect(() => {
